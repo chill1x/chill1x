@@ -1,4 +1,3 @@
-# CHILL1X
 
  <p align="center">
   <img src="https://media1.tenor.com/m/tcuVIIjzsesAAAAd/myfanboyss.gif" width="100%" />
