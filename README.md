@@ -1,7 +1,7 @@
 # CHILL1X
 
  <p align="center">
-  <img src="https://media1.tenor.com/m/REPLACE_ME.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/tcuVIIjzsesAAAAd/myfanboyss.gif" width="100%" />
 </p>
 
 <h3 align="center">DEVELOPER • CREATOR • TECH ENTHUSIAST</h3>
