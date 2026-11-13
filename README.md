@@ -40,12 +40,6 @@
   </a>
 </p>
 
-### GITHUB STATS
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=CHILL1X1234&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
